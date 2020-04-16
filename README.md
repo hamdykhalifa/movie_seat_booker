@@ -1,4 +1,3 @@
-# movie_seat_booker
-Cinema Seat Booking Website
+# Cinema Seat Booking page
 
 Clone of Movie Seat Booking application using javascript.
